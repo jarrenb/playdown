@@ -113,15 +113,15 @@ a traditional screenplay has the title on one line, the word "by" on the next li
 
 ### scene heading
 
-i think the scene heading, since after the title it's the second most important header found in the screenplay, can have the second markdown header
+scene headings are formatted in the style of the first header in markdown style, or a single hashtag followed by a space and then the scene heading text
 
 example:
 
-\#\# int. my first scene - day
+\# int my first scene - day
 
 or
 
-\#\# ext. my next scene - night
+\# ext. my next scene - night
 
 the person writing could write the scene heading text in all caps, but they don't need to. on conversion to html or whatever other format, all the text following the two hashtags will be converted to uppercase
 
@@ -137,9 +137,9 @@ action formatting will take the style of blockquotes from markdown which uses th
 
 example:
 
-> this would be an action element in a script
+\> this would be an action element in a script
 
-> the two drive in their car to the restaurant
+\> the two drive in their car to the restaurant
 
 ### character
 
@@ -179,13 +179,13 @@ so for example:
 
 this is dialogue that i am saying
 
-dialogue will always come after a character element and sometimes after a parenthetical element that comes right after a character element
+dialogue will always come on the line following a character element and sometimes on the line following a parenthetical element that comes on the line following a character element
 
 so dialogue will typically look like this
 
-WHATEVER THE CHARACTER FORMATTING IS
-(A PARENTHETICAL)
-and here i am saying some dialogue out loud for the good good audience
+\* character
+(parenthetical)
+and here i am saying some dialogue out loud for the good good audience. this is dialogue. notice there is not special character at the beginning of this. no special character before means dialogue to playdown
 
 ### parenthetical
 
@@ -204,6 +204,34 @@ or
 (V.O.)
 
 in markdown, parenthesis are used for links, but screenplays shouldn't have links so we can use them differently here
+
+parentheses, like characters, can be either inline or block elements. therefore in order to be consistent i think there should be a differentiation between the two when writin in playdown
+
+block: ( parenthetical
+inline: (parenthetical)
+
+this will be good because i've seen a situation that could be confusing, and i think it's just a matter of preference of whatever screenplay software you happen to be using
+
+i've seen parentheticals used on the line just below a character as the character name is indicating dialogue from that character. for example:
+
+\* character
+\( parenthetical
+dialogue
+
+and i've also seen that same parenthetical placed inline with the character name. for example:
+
+\* character (parenthetical)
+dialogue
+
+by having both element styles, playdown can be used whichever way the writer prefers. if they like parentheticals on the same line as the character, that's cool. if they prefer the parenthetical below (for some reason i prefer this way, though not for any logical reason that i can think of. i must just think it looks better), that's cool too
+
+(i do worry about the block formatting of a parenthetical. we're so used to seeing parentheses enclosing words, that i worry having just an opening parenthesis will be off-putting to some people. plus, editors like the kind i expect people will write screenplays in (code editors) almost always just add into two parenthesis automatically because that's just how people expect parenthesis to behave)
+
+(i also considered the possibility of just having the script look for a line break after a closing parenthesis to determine if the parenthetical was block or inline, but i thought that might be harder and i'm already not a very good programmer)
+
+(i thought of the same thing for character formatting as well. just looking for a line break after a character name to indicate that that character element was block rather than inline, but i ultimately decided against it for the same reason)
+
+(maybe when i get into programming the script i'll find that it's not so hard, and i'll just implement the way i've outlined in these four parenthesis enclosed paragraphs. i suppose it would work with the philosophy of writer preference to have both as an option. either a single parenthesis or asterisk or underscore followed by a space, or just the inline syntax of those elements followed by a line break to indicate block version of that element)
 
 ### extensions
 
