@@ -2,7 +2,12 @@ Extinct Scene Sample
 S Mckay Stevens
 ===
 
-contact info
+8/13/2016 update
+S Mckay Stevens
+1234 Somewhere In
+Spanish Fork, UT 84660
+555-555-5555
+thisisnotmckaysactual@email.com
 ---
 
 # ext indistinguishable dark location - night
