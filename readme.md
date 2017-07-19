@@ -48,6 +48,10 @@ i think i should take what i can from markdown to keep it familiar with writers 
 
 playdown files should have the extension of either .playdown or .pd. personally i prefer .pd (just like i prefer .md for markdown)
 
+#### how strict to the format of scripts should playdown be?
+
+playdown should be as customizable as possible. if all the writer wants to do is have two characters talking, then all they need to add to the playdown file is the characters talking. converting that playdown file to sml should still create screenplay like formatting. my point is, if the writer doesn't want to include certain aspects of the script, that's fine with playdown. leaving stuff out means just that, the screenplay won't have the thing, but it can have the thing if the writer wants. a blank playdown file will render one blank page with nothing on it. a title page with only a title will render a title where you expect a title on the title page, but with no other content
+
 ### title page
 
 playdown expects the main headers or single hashtag headers as the three elements that make up the title, "by", and author (or by-line) of the screenplay. these should be on consecutive lines, with a single hashtag and space at the beginning of each line
@@ -58,9 +62,9 @@ example:
 \# by
 \# jarrenb
 
-i need to add in formatting for the word "by" and then the author
-
 i also need to add in contact info formatting and any other formatting that goes in the bottom left corner of the title page
+
+if there is no contact info or any other info for the bottom right corner, then that section will be left blank
 
 ### scene heading
 
