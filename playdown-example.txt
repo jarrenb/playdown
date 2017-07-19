@@ -1,6 +1,6 @@
 Extinct Scene Sample
 S Mckay Stevens
-===
+====================
 
 8/13/2016 update
 S Mckay Stevens
@@ -74,4 +74,27 @@ We'll need to start an aggressive treatment right away...
 
 > All the while, Abram sits, motionless.
 
-#
+# ext cemetery - dusk
+
+> Match frame on *abram*, now sitting beside a casket, ready to be laid to rest. He's by himself. The far right seat in a row of empty chairs.
+
+* wife (v.o.)
+Abram?
+
+> Her voice echoes. Long since gone.
+
+> *abram* is at the tail-end of his weeping. He inhales deeply and sits up straight. He holds his breath for a moment before a long exhale.
+
+* apparition (o.s.)
+It doesn't have to be this way.
+
+> That voice is too familiar.
+
+> *abram* looks down the row of chairs, spotting what appears to be his *wife* sitting in the last one. She looks young, perfect, beautiful. She wears a long, simple off-white dress with a blue trim down either side.
+
+> *abram* is paralyzed by the sight of her.
+
+> The *apparition* stands, approaches him, and crouches in front of him. She draws in close, locking eyes with him.
+
+* apparition
+What if you could save me?

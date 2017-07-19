@@ -233,8 +233,20 @@ by having both element styles, playdown can be used whichever way the writer pre
 
 (maybe when i get into programming the script i'll find that it's not so hard, and i'll just implement the way i've outlined in these four parenthesis enclosed paragraphs. i suppose it would work with the philosophy of writer preference to have both as an option. either a single parenthesis or asterisk or underscore followed by a space, or just the inline syntax of those elements followed by a line break to indicate block version of that element)
 
+i have seen parentheticals in both uppercase and lowercase. because of this, playdown will not convert any text inside of parentheses to either uppercase or lowercase. if the writer wants the text inside a parenthetical to be uppercase, they must do it manually
+
+there are also parentheticals made programmatically by screenwriting software. these typically indicate a continuation on the other side of an interruption either due to a new page (literally just running out of page space), or an interruption in the action of the script itself (something happens while a character is giving a line of dialogue, but the dialogue continues either during the action or after the action has continued). these parentheticals are generated automatically by the screenwriting software and typically look like this: (CONTINUED) or (CONT'D) or (cont'd). after a bit of research it seems that there is currently some debate about whether or not these things should be added at all, and then whether or not they should be uppercase or lowercase. i need to do some more research to establish a default style for playdown. i'll probably try to mimic whatever i think is the most recent and agreed upon convention amongst the screenplay writing community. or if i can find an official specification of some sort from some authoritative source, then i might follow their guidelines
+
 ### extensions
 
 ### transition
 
 ### shot
+
+## issues and other considerations
+
+### should inline elements inside of block elements with specific formatting inherit that formatting?
+
+i'm think specifically of an inline parenthetical inside a block character? a block character converts to uppercase, should the text inside the parenthetical convert to uppercase as well? or should it say whatever it is in the document?
+
+i think it should stay whatever it is in the document. i think this might allow the writer the most freedom as they might not want the parenthetical to be uppercase, but then they still have the choice by just writing whatever's inside the parenthetical in uppercase manually
