@@ -58,6 +58,22 @@ playdown files should have the extension of either .playdown or .pd. personally 
 
 playdown should be as customizable as possible. if all the writer wants to do is have two characters talking, then all they need to add to the playdown file is the characters talking. converting that playdown file to sml should still create screenplay like formatting. my point is, if the writer doesn't want to include certain aspects of the script, that's fine with playdown. leaving stuff out means just that, the screenplay won't have the thing, but it can have the thing if the writer wants. a blank playdown file will render one blank page with nothing on it. a title page with only a title will render a title where you expect a title on the title page, but with no other content
 
+### auto-formatting: do we use it?
+
+first character of elements that do not already have special formatting, i.e. action and dialogue, should auto-capitalize the first letter. writer's may add this already, in which case playdown will do nothing, but for lazy writer's (like me) playdown's got your back
+
+### emphasis
+
+uppercase is used for production emphasis. like to point out things that will be needed come production time. arbitrary uppercase is in playdown by placing the emphasized text between either two asterisks or two underscores.
+
+example:
+
+*\*\three suvs\*\*
+
+or
+
+\_\_extremely large fake mustache\_\_
+
 ## elements of a screenplay:
 
 ### title page
@@ -171,6 +187,10 @@ so if the writer wants the character with the special indentation because they'r
 
 but if they want the character just to be all uppercase because it's in some other element, like an action element, then they should write the character's name in inline style format: a pair of asterisks or underscores with the character name in between with no spaces
 
+the first time in the script a character is introduced, their name should be uppercase. after that, their name can be in whatever case when it's found in non-character elements 
+
+so the inline character element should only be used once for each character. for a second i thought that would make the inline character element useless altogether, but there a lot of a character's introduced in a script, typically, so it still seems like a useful thing. plus maybe an editor built specifically for playdown could utilize the character elements to make typing characters a little easier as it seems annoying repetitive tasks are one of the most frustrating aspects of typing a script
+
 ### dialogue
 
 it seems to me that the bulk of most screenplays will be dialogue. or at least the person writing the screenplay might appreciate dialogue being the elements that gets in the way the least. so i think this element will be the one written like a paragraph in markdown in the sense that there's no special formatting, just start a new line and start writing. i like this decision because it seems to favor making the writing of a screenplay in playdown easier, and if a reading were ever to happen with a playdown formatted screenplay (as in before it got converted to screenplay formatting) it would be fairly easy to see the dialogue, which seems important and useful
@@ -242,6 +262,20 @@ there are also parentheticals made programmatically by screenwriting software. t
 ### transition
 
 ### shot
+
+### montage
+
+montages seem to be formatted in the same way as scene headings, but there's a key difference. whereas scenes are numbered at the scene heading, montages are not numbered. this seems to mean that a montage can happen within a scene, but stand apart from the rest of a scene. because of this special formatting, i think montages ought to have their own element in playdown. i think it ought to be the double hastag formatting of a second header in markdown. this indicates something like a scene, but that exists inside of a scene so it isn't numbered
+
+example:
+
+\#\# montage
+
+another key difference from scenes is that montages have a marked ending, which in playdown also has the format of two hashtags and a space and says "end montage"
+
+example
+
+\#\# end montage
 
 ## issues and other considerations
 
