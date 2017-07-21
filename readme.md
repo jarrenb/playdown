@@ -68,7 +68,7 @@ uppercase is used for production emphasis. like to point out things that will be
 
 example:
 
-*\*\three suvs\*\*
+\*\*three suvs\*\*
 
 or
 
