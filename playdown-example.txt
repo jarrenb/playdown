@@ -22,7 +22,7 @@ thisisnotmckaysactual@email.com
 
 > It's eerie, ominous, and distant.
 
-> *Abram* stumbles through the sand and brush.
+> Abram stumbles through the sand and brush.
 
 > RING.
 
@@ -30,7 +30,7 @@ thisisnotmckaysactual@email.com
 
 > It's getting louder. He's close.
 
-> *Abram* moves almost against his will, pulled toward the sound as it gets louder and louder, until finally, he finds it: an ALIEN ARTIFACT.
+> Abram moves almost against his will, pulled toward the sound as it gets louder and louder, until finally, he finds it: an **alien artifact**.
 
 > The Artifact is about the length of a regular sheet of paper, but much thinner. It is trapezoidal, except for a few seemingly random and inconsistent grooves on each side.
 
@@ -38,7 +38,7 @@ thisisnotmckaysactual@email.com
 
 > RING.
 
-> *Abram* pauses when he sees it. He studies it for a moment, but the pull toward it is strong.
+> Abram pauses when he sees it. He studies it for a moment, but the pull toward it is strong.
 
 > RING.
 
@@ -46,7 +46,7 @@ thisisnotmckaysactual@email.com
 
 # int doctor's office - day
 
-> *abram* sits forward on a chair, elbows resting on his knees, fingers interlaced, and eyes giving way to what he's heard.
+> Abram sits forward on a chair, elbows resting on his knees, fingers interlaced, and eyes giving way to what he's heard.
 
 > Beside him, his *wife* sits and talks with a *doctor*, off-screen.
 
@@ -76,49 +76,49 @@ We'll need to start an aggressive treatment right away...
 
 # ext cemetery - dusk
 
-> Match frame on *abram*, now sitting beside a casket, ready to be laid to rest. He's by himself. The far right seat in a row of empty chairs.
+> Match frame on Abram, now sitting beside a casket, ready to be laid to rest. He's by himself. The far right seat in a row of empty chairs.
 
 * wife (v.o.)
 Abram?
 
 > Her voice echoes. Long since gone.
 
-> *abram* is at the tail-end of his weeping. He inhales deeply and sits up straight. He holds his breath for a moment before a long exhale.
+> Abram is at the tail-end of his weeping. He inhales deeply and sits up straight. He holds his breath for a moment before a long exhale.
 
 * apparition (o.s.)
 It doesn't have to be this way.
 
 > That voice is too familiar.
 
-> *abram* looks down the row of chairs, spotting what appears to be his *wife* sitting in the last one. She looks young, perfect, beautiful. She wears a long, simple off-white dress with a blue trim down either side.
+> Abram looks down the row of chairs, spotting what appears to be his wife sitting in the last one. She looks young, perfect, beautiful. She wears a long, simple off-white dress with a blue trim down either side.
 
-> *abram* is paralyzed by the sight of her.
+> Abram is paralyzed by the sight of her.
 
-> The *apparition* stands, approaches him, and crouches in front of him. She draws in close, locking eyes with him.
+> The Apparition stands, approaches him, and crouches in front of him. She draws in close, locking eyes with him.
 
 * apparition
 What if you could save me?
 
-# int *abram* and *wife*'s room - night
+# int abram and wife's room - night
 
 > The bedroom is still and quiet. The TV plays to an absent audience.
 
 > A light bleeds out from the open bathroom door across the short carpet.
 
-> POV: approaching the door. The sound of heavy breathing from someone who is desperately ill. Coming up on the door and looking inside to find:
+> **pov**: approaching the door. The sound of heavy breathing from someone who is desperately ill. Coming up on the door and looking inside to find:
 
 # int bathroom - continuous
 
-> *abram* holds his wife's hair back as she grips to the toilet, extremely sick.
+> Abram holds his wife's hair back as she grips to the toilet, extremely sick.
 
-> Her *apparition* stands in the doorway. We never hear the sound of the vomiting.
+> Her Apparition stands in the doorway. We never hear the sound of the vomiting.
 
-> *abram* watches his sweet, sick wife, completely helpless.
+> Abram watches his sweet, sick wife, completely helpless.
 
 * apparition
 You watched me die for months.
 
-> *abram* looks up at the *apparition*, tortured. He looks back to his sick wife.
+> Abram looks up at the Apparition, tortured. He looks back to his sick wife.
 
 > She flushes the toilet and he pulls his hand out of her hair, taking a clump of it with him. He stares at it in disbelief.
 
@@ -130,9 +130,9 @@ Why are you doing this to me?
 
 # int doctor's office - day
 
-> Back in the same place and position as before. *abram* sits at the office, his wife next to him.
+> Back in the same place and position as before. Abram sits at the office, his wife next to him.
 
-> The conversation is muffled as we stay on *abram*, but we still hear the content.
+> The conversation is muffled as we stay on Abram, but we still hear the content.
 
 * doctor
 ...I'm not sure... I suppose we can just call it a false alarm.
@@ -143,7 +143,7 @@ What does that mean?
 * doctor
 It means you are healthy. No tumor.
 
-> *abram* shakes off his hyper-focus and tunes into the conversation.
+> Abram shakes off his hyper-focus and tunes into the conversation.
 
 * wife
 No tumor.
@@ -151,18 +151,18 @@ No tumor.
 * doctor
 That's correct.
 
-> She grabs *abram*'s arm. *abram* looks at both of them, trapped in an endless series of double-takes. Could this be real?
+> She grabs Abram's arm. Abram looks at both of them, trapped in an endless series of double-takes. Could this be real?
 
 * wife
 Did you hear that? No tumor. No cancer!
 
-> *abram* is conflicted, as if the diagnosis is too easy. He locks his gaze, but not on anything before him.
+> Abram is conflicted, as if the diagnosis is too easy. He locks his gaze, but not on anything before him.
 
 # ext indistinguishable dark location - night
 
-> A FIRE glows. *abram* and the *apparition* sit across from each other, the fire in between. The Artifact is somehow the source of the fire. Flames dance over the top of it.
+> A **fire** glows. Abram and the Apparition sit across from each other, the fire in between. The Artifact is somehow the source of the fire. Flames dance over the top of it.
 
-> *abram* maintains his locked gaze on his past. He is completely checked out from the present. He accepts this new world.
+> Abram maintains his locked gaze on his past. He is completely checked out from the present. He accepts this new world.
 
 > He adopts a faint smile.
 
@@ -177,13 +177,13 @@ You remember our favorite place?
 
 > Two wooden rocking chairs sit on the corner of a wrap-around porch. At one point, the were white chairs, but the paint has worn down, leaving a dull gray.
 
-> *abram's wife* sits on one chair. The door squeaks open and *abram* brings two steaming cups of tea with him, gently handing one to his wife before sitting.
+> Abram's wife sits on one chair. The door squeaks open and Abram brings two steaming cups of tea with him, gently handing one to his wife before sitting.
 
 > They're older now. In their sixties.
 
 > For a long while, they sit and enjoy the incredible sounds around them. There are no sirens, no construction, no anything. Just the chimes and the world--as it was meant to be heard.
 
-> The ring of the chimes begins to grow louder, however, interrupting their paradise. Well, *abram*'s anyway. *abram* locks his eyes on the chimes, but notices the sound seems almost out of sync with the movement.
+> The ring of the chimes begins to grow louder, however, interrupting their paradise. Well, Abram's anyway. Abram locks his eyes on the chimes, but notices the sound seems almost out of sync with the movement.
 
 > Not just that, but the sound changes as it grows louder.
 
@@ -192,20 +192,20 @@ You remember our favorite place?
 * wife
 perfect day, huh?
 
-> She sips her tea. *abram* can't make sense of her normalcy. The chimes sound again. This time, they're muffled... diluted somehow. That sound, it's familiar.
+> She sips her tea. Abram can't make sense of her normalcy. The chimes sound again. This time, they're muffled... diluted somehow. That sound, it's familiar.
 
 > RING.
 
 > There it is. It's the same ring from the Artifact. It's calling to him. His moment is broken. He snaps out of it, realizing what is actually happening.
 
-> *abram* stares at the *apparition*, his wife.
+> Abram stares at the Apparition, his wife.
 
 * abram
 Don't.
 
 # ext indistinguishable dark location - night
 
-> Back to the fire. *abram* and the *apparition* are in the same spots, facing each other.
+> Back to the fire. Abram and the Apparition are in the same spots, facing each other.
 
 * apparition
 What?
@@ -215,7 +215,7 @@ Don't- Don't do that. And don't act like you're her. You're not her.
 
 > The flames dance over the Artifact again. This time, the tops of the flame show flashes of their paradise in the woods. It's as if, somehow, the flames are their means of travel to these different memories.
 
-> The *apparition* holds for a moment, watching *abram*. She smiles, but just a little.
+> The Apparition holds for a moment, watching Abram. She smiles, but just a little.
 
 * apparition
 No. I'm not.
@@ -229,9 +229,9 @@ The who are you? And what are you doing to me?
 
 > Except for the wind chimes. They're gone.
 
-> On the porch, TWO ROCKING CHAIRS sit, empty, until *abram* emerges from the door with a cup of tea and sits.
+> On the porch, **two rocking chairs** sit, empty, until Abram emerges from the door with a cup of tea and sits.
 
-> The sounds from before aren't quite the same anymore. There's a hollow whip through the air as *abram* holds his cup, ready to take a sip.
+> The sounds from before aren't quite the same anymore. There's a hollow whip through the air as Abram holds his cup, ready to take a sip.
 
 > He pauses and looks out into the woods. he turns and looks the other direction. It's dark. Lonely.
 
@@ -239,12 +239,12 @@ The who are you? And what are you doing to me?
 
 # ext indistinguishable dark location - night
 
-> *abram* and the *apparition* continue. *abram* has resumed his trance, staring through the darkness.
+> Abram and the Apparition continue. Abram has resumed his trance, staring through the darkness.
 
 * apparition
 It doesn't have to be this way. Do you remember how alone you are?
 
-> *abram* doesn't break his trance. His eyes, his head, nothing moves. He's somber.
+> Abram doesn't break his trance. His eyes, his head, nothing moves. He's somber.
 
 * abram
 It's colder than I remember.
@@ -252,7 +252,7 @@ It's colder than I remember.
 * apparition
 We can free you from those pains, Abram. We can bring you peace.
 
-> A flood of apparent memories flash through the flames before *abram*.
+> A flood of apparent memories flash through the flames before Abram.
 
 * apparition (cont'd)
 We are a race who has dedicated our lives to follow the teachings of the Originators, as you know them. For us, the foundation of all virtues is peace. Who we are in the present is the sum of what we have been in the past. With peace in our past, there will be peace in our present.
@@ -263,7 +263,7 @@ You can change the past?
 * apparition
 No. We change your memory of it.
 
-> *abram* watches the flames, reacting with laughter. Joy.
+> Abram watches the flames, reacting with laughter. Joy.
 
 > Then somber.
 
@@ -273,14 +273,14 @@ I don't want to be alone anymore.
 * apparition
 So you're ready?
 
-> *abram* doesn't respond.
+> Abram doesn't respond.
 
 * apparition (cont'd)
 Abram?
 
 # ext. cabin - day
 
-> *abram* sits on the rocker. He still hasn't taken a sip of his tea.
+> Abram sits on the rocker. He still hasn't taken a sip of his tea.
 
 > His face is the same as it is in front of the fire. Locked. Tranced. Somber.
 
@@ -291,53 +291,53 @@ You've missed something.
 
 # ext indistinguishable dark location - night
 
-> The *apparition* sutdies *abram*. He maintains his trance, but now holds his smile.
+> The Apparition studies Abram. He maintains his trance, but now holds his smile.
 
 * abram
 It's so... wonderfully simple. And you missed it.
 
-> The *apparition* is at a loss.
+> The Apparition is at a loss.
 
 # ext cabin - day
 
-> *abram* breaks his trance and looks toward the road coming into the cabin. THREE SUVs pull in and several *parents* and *children* jump out.
+> Abram breaks his trance and looks toward the road coming into the cabin. THREE SUVs pull in and several *parents* and *children* jump out.
 
 * children
 Grandpa! Grandpa!
 
-> A few of the younger kids run to *abram* as he stands up. They throw their arms around him.
+> A few of the younger kids run to Abram as he stands up. They throw their arms around him.
 
-> *abram* laughs with pure joy.
+> Abram laughs with pure joy.
 
-> Two of the parents come in just as the kids move on. They hug *abram*.
+> Two of the parents come in just as the kids move on. They hug Abram.
 
 * daughter
 Hey dad. You got here quick.
 
-> *abram* laughs.
+> Abram laughs.
 
 * abram
 Had to have a few minutes of quiet before all these kids showed up. Who invited them anyway?
 
-> *abram* flashes a cheeky smile. The parents laugh.
+> Abram flashes a cheeky smile. The parents laugh.
 
 * daughter
 Tell me about it. My few minutes of quiet only happens when I give them treats and hide in the shower.
 
 > They laugh again.
 
-> The crowd of family makes their way into the house, greeting *abram* as they arrive.
+> The crowd of family makes their way into the house, greeting Abram as they arrive.
 
 > As the last of them goes inside, shouts from the kids ring out as they claim their favorite spots to sleep. It's roucous at best.
 
-> *abram* can't contain his smile. He grabs his cup of tea again.
+> Abram can't contain his smile. He grabs his cup of tea again.
 
 * abram
 You still can't see it, can you?
 
 # ext indistinguishable dark location - night
 
-> *abram* has broken his trance and looks at the *apparition*.
+> Abram has broken his trance and looks at the Apparition.
 
 * abram
 You'll never be able to replace reality by hiding behind a false one. You think you are the first to introduce lies and distractions to humankind? No, we discovered that ages ago. We got very good at removing ourselves from reality.
@@ -345,7 +345,7 @@ You'll never be able to replace reality by hiding behind a false one. You think 
 * apparition
 And did it bring you peace?
 
-> *abram* scoffs.
+> Abram scoffs.
 
 * abram
 It brought us emptiness. Isolation. It took us away from real, human connection. See, we can't choose to eliminate our pain without also losing our sense of compassion. Of sympathy. The one can't exist without the other.
@@ -361,7 +361,7 @@ No. In the moment, I definitely don't want it. But in hindsight, I don't think I
 * abram (cont'd)
 Even if given the opportunity.
 
-The *apparition* considers this thought.
+> The Apparition considers this thought.
 
 * abram (cont'd)
 I want to be happy so much that I'm willing to endure all that pain to get it. Those false realities, those distractions, they don't fill a void. They just temporarily numb the pain. That's no solution.
