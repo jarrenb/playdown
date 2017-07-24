@@ -287,6 +287,12 @@ or
 
 \_\_extremely large fake mustache\_\_
 
+### where to have text transformed to uppercase?
+
+have the playdown js convert text to uppercase? or have the css of the sml file convert to uppercase?
+
+right now i've opted for the javascript to do it. the javascript will necessarily have to convert to uppercase anyway, might as well give the whole load of uppercase work to javascript, rather than split it up between the two
+
 ## version 1.0.0
 
 the goal of version 1.0 would be being able to write a screenplay as a .txt file (or maybe a .pd or .playdown file i'm not sure how file extensions work) and run that file through a node/javascript script to produce an sml document that can be viewed in a browser and looks like a script in the browser, and can also be printed and exactly like how a printed script should look
