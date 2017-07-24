@@ -2,6 +2,8 @@
 
 screenplay formatting software is expensive
 
+and writing in the format of a screenplay isn't always good for those sweet creative juices
+
 as a writer i have found myself moving away from microsoft word and towards writing markdown. it's cleaner. it doesn't make assumptions about formatting. i can write markdown in any editor i want not named microsoft word. markdown is very nice and cool. i think it would be cool if people could write screenplays in the same way that people write stuff in markdown
 
 so that's what i'm attempting with this project
@@ -9,70 +11,6 @@ so that's what i'm attempting with this project
 write a screenplay using markdown style syntax that is converted into a specific format of html that renders to the exact formatting style of a script
 
 so playdown, like markdown, is two things: (i'm stealing a lot of this paragraph straight from john gruber's introduction to markdown) (1) a plain text formatting syntax for writing a screenplay; and (2) a software tool, written for node in javascript that converts playdown files (.pd) into an html file specifically formatted to look exactly like how a script is supposed to look. i call this "sml" (screenplay markup language) but it's actually just a plan html file
-
-## version 1.0.0
-
-the goal of version 1.0 would be being able to write a screenplay as a .txt file (or maybe a .pd or .playdown file i'm not sure how file extensions work) and run that file through a node/javascript script to produce an sml document that can be viewed in a browser and looks like a script in the browser, and can also be printed and exactly like how a printed script should look
-
-## general formatting and things worth considering
-
-### file extensions and types
-
-playdown files should not be markdown files (meaning they end in .md or .markdown). they should be either plain text files (.txt) or playdown specific files (.pd or .playdown)
-
-in markdown line breaks and indentation matter. i don't know how much indentation will need to matter in a screenplay version of markdown, but line breaks (i hope i'm using the correct term) do matter in screenplays as well
-
-### the first question i can think of that needs addressing is for the sake of visual organization should certain elements be closer together?
-
-by default in markdown, a line in between each element indicates a new element. for example:
-
-this is a paragraph
-
-and this is a new paragraph
-
-there is a line in between the two and that how markdown knows they are two different paragraphs
-
-does it makes sense to do this with elements of a screenplay? i think for the most part yes. where i can see a better approach is with characters and their dialogue. for example:
-
-john
-this is my dialogue. this is the dialogue that i'm saying
-
-sally
-why are you saying such weird words? we were having a nice moment by the fire and now you've ruined it with your classic nonsense!
-
-john
-(confused)
-i'm sorry sally. i think my big brain is broken
-
-other elements would have the blank line in between them to indicate a new element, but i think characters, parentheticals, and dialogue can all be on subsequent lines starting with the character element. a new character with new dialogue will require a blank line in between like normal
-
-### should i borrow as many elements as possible directly from markdown? or should i try to create something from scratch for each to keep markdown and playdown separated?
-
-i think i should take what i can from markdown to keep it familiar with writers who already know markdown. the two have to be separate since screenplays are written in isolation from other forms of writing. you don't typically see a blog post or a book that features a section written in a screenplay style
-
-### playdown files can't be .markdown or .md like markdown files are, because they're not markdown (they just look kind of like markdown)
-
-playdown files should have the extension of either .playdown or .pd. personally i prefer .pd (just like i prefer .md for markdown)
-
-### how strict to the format of scripts should playdown be?
-
-playdown should be as customizable as possible. if all the writer wants to do is have two characters talking, then all they need to add to the playdown file is the characters talking. converting that playdown file to sml should still create screenplay like formatting. my point is, if the writer doesn't want to include certain aspects of the script, that's fine with playdown. leaving stuff out means just that, the screenplay won't have the thing, but it can have the thing if the writer wants. a blank playdown file will render one blank page with nothing on it. a title page with only a title will render a title where you expect a title on the title page, but with no other content
-
-### auto-formatting: do we use it?
-
-first character of elements that do not already have special formatting, i.e. action and dialogue, should auto-capitalize the first letter. writer's may add this already, in which case playdown will do nothing, but for lazy writer's (like me) playdown's got your back
-
-### emphasis
-
-uppercase is used for production emphasis. like to point out things that will be needed come production time. arbitrary uppercase is in playdown by placing the emphasized text between either two asterisks or two underscores.
-
-example:
-
-\*\*three suvs\*\*
-
-or
-
-\_\_extremely large fake mustache\_\_
 
 ## elements of a screenplay:
 
@@ -259,9 +197,15 @@ there are also parentheticals made programmatically by screenwriting software. t
 
 ### extensions
 
+not yet supported
+
 ### transition
 
+not yet supported
+
 ### shot
+
+not yet supported
 
 ### montage
 
@@ -284,3 +228,76 @@ example
 i'm think specifically of an inline parenthetical inside a block character? a block character converts to uppercase, should the text inside the parenthetical convert to uppercase as well? or should it say whatever it is in the document?
 
 i think it should stay whatever it is in the document. i think this might allow the writer the most freedom as they might not want the parenthetical to be uppercase, but then they still have the choice by just writing whatever's inside the parenthetical in uppercase manually
+
+### file extensions and types
+
+playdown files should not be markdown files (meaning they end in .md or .markdown). they should be either plain text files (.txt) or playdown specific files (.pd or .playdown)
+
+in markdown line breaks and indentation matter. i don't know how much indentation will need to matter in a screenplay version of markdown, but line breaks (i hope i'm using the correct term) do matter in screenplays as well
+
+### the first question i can think of that needs addressing is for the sake of visual organization should certain elements be closer together?
+
+by default in markdown, a line in between each element indicates a new element. for example:
+
+this is a paragraph
+
+and this is a new paragraph
+
+there is a line in between the two and that how markdown knows they are two different paragraphs
+
+does it makes sense to do this with elements of a screenplay? i think for the most part yes. where i can see a better approach is with characters and their dialogue. for example:
+
+john
+this is my dialogue. this is the dialogue that i'm saying
+
+sally
+why are you saying such weird words? we were having a nice moment by the fire and now you've ruined it with your classic nonsense!
+
+john
+(confused)
+i'm sorry sally. i think my big brain is broken
+
+other elements would have the blank line in between them to indicate a new element, but i think characters, parentheticals, and dialogue can all be on subsequent lines starting with the character element. a new character with new dialogue will require a blank line in between like normal
+
+### should i borrow as many elements as possible directly from markdown? or should i try to create something from scratch for each to keep markdown and playdown separated?
+
+i think i should take what i can from markdown to keep it familiar with writers who already know markdown. the two have to be separate since screenplays are written in isolation from other forms of writing. you don't typically see a blog post or a book that features a section written in a screenplay style
+
+### playdown files can't be .markdown or .md like markdown files are, because they're not markdown (they just look kind of like markdown)
+
+playdown files should have the extension of either .playdown or .pd. personally i prefer .pd (just like i prefer .md for markdown)
+
+### how strict to the format of scripts should playdown be?
+
+playdown should be as customizable as possible. if all the writer wants to do is have two characters talking, then all they need to add to the playdown file is the characters talking. converting that playdown file to sml should still create screenplay like formatting. my point is, if the writer doesn't want to include certain aspects of the script, that's fine with playdown. leaving stuff out means just that, the screenplay won't have the thing, but it can have the thing if the writer wants. a blank playdown file will render one blank page with nothing on it. a title page with only a title will render a title where you expect a title on the title page, but with no other content
+
+### auto-formatting: do we use it?
+
+first character of elements that do not already have special formatting, i.e. action and dialogue, should auto-capitalize the first letter. writer's may add this already, in which case playdown will do nothing, but for lazy writer's (like me) playdown's got your back
+
+### emphasis
+
+uppercase is used for production emphasis. like to point out things that will be needed come production time. arbitrary uppercase is in playdown by placing the emphasized text between either two asterisks or two underscores.
+
+example:
+
+\*\*three suvs\*\*
+
+or
+
+\_\_extremely large fake mustache\_\_
+
+## version 1.0.0
+
+the goal of version 1.0 would be being able to write a screenplay as a .txt file (or maybe a .pd or .playdown file i'm not sure how file extensions work) and run that file through a node/javascript script to produce an sml document that can be viewed in a browser and looks like a script in the browser, and can also be printed and exactly like how a printed script should look
+
+## credits
+
+- One of my best friends and good good screenwriter/filmmaker S Mckay Stevens
+
+- [screenwriting info](http://www.screenwriting.info/)
+- [writer's store screenplay guide](https://www.writersstore.com/how-to-write-a-screenplay-a-guide-to-scriptwriting/)
+- [screenwriting.io](https://screenwriting.io/)
+
+- [john gruber's markdown](https://daringfireball.net/)
+- [showdown github project](https://github.com/showdownjs/showdown)
