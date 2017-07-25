@@ -247,13 +247,13 @@ there is a line in between the two and that how markdown knows they are two diff
 
 does it makes sense to do this with elements of a screenplay? i think for the most part yes. where i can see a better approach is with characters and their dialogue. for example:
 
-john
+\* john
 this is my dialogue. this is the dialogue that i'm saying
 
-sally
+\* sally
 why are you saying such weird words? we were having a nice moment by the fire and now you've ruined it with your classic nonsense!
 
-john
+\* john
 (confused)
 i'm sorry sally. i think my big brain is broken
 
@@ -307,3 +307,4 @@ the goal of version 1.0 would be being able to write a screenplay as a .txt file
 
 - [john gruber's markdown](https://daringfireball.net/)
 - [showdown github project](https://github.com/showdownjs/showdown)
+- [eloquent javascript by marijn haverbeke specifically chapter six of the first edition](http://eloquentjavascript.net/1st_edition/chapter6.html)

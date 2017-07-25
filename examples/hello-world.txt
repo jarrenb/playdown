@@ -1,1 +1,53 @@
-# hello world!
+# int hello world - day
+
+> this action introduces the hello world scene to the reader, and will also introduce the character of *jarren* to the reader
+
+> this next action gives the reader a second thing to reader
+
+> this third action brings some sort of unifying feeling of completion to the reader. threes are important to people, i do not know why
+
+* jarren
+i said this dialogue, man. i said it, not you
+
+* reader
+but i said it, too. i'm telling you i also said it and i didn't know that you had said it
+
+* jarren
+this much is clear: you have fucked up
+
+* reader
+i don't know why you are so upset, but okay you are upset. i will leave you alone now
+
+# ext hello world - day
+
+> we have left jarren and the reader and have gone outside to give the world a proper hello. it is a sunny, clear day out. jarren and the reader are long gone which is pretty sweet
+
+> now we meet *gilgamesh*. why? it's just the first word that came into the writer's head. she looks just like a man. the viewer perceives her to be a man
+
+* viewer
+hey man!
+
+* gilgamesh
+i am not a man
+
+* viewer
+damn i was dead wrong on this one
+
+# int goodbye world - night
+
+> the day has come and gone and we have moved back inside and we are looking at committing suicide because this demo script is coming to an end. the *ender* meets *death* and the two hit it off
+
+* ender
+you are a dark, scary figure and you carry a weird tool or weapon that looks extremely ominous
+
+* death
+i am death and this is my uniform. i do not use the weapon/tool, it is merely to enhance my ominous look. i like your name
+
+* ender
+thank you. everywhere i've gone death, not you, has followed. i end things. conflicts? other people's half-eaten plates of food in restaurants? books that people start and then just kind of let slip by the wayside? i end those things for them. also, a lot of people i've been close to have died. ender seems to be a fitting name for meet
+
+* death
+(wryly)
+i like you. we are hitting it off
+
+> the two walk down a dark hallway with a bright light shining in from what appears to be the end
