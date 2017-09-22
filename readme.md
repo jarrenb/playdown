@@ -12,6 +12,45 @@ write a screenplay using markdown style syntax that is converted into a specific
 
 so playdown, like markdown, is two things: (i'm stealing a lot of this paragraph straight from john gruber's introduction to markdown) (1) a plain text formatting syntax for writing a screenplay; and (2) a software tool, written for node in javascript that converts playdown files (.pd) into an html file specifically formatted to look exactly like how a script is supposed to look. i call this "sml" (screenplay markup language) but it's actually just a plan html file
 
+## syntax change idea (22 september 2017)
+in screenwriting, it seems like conversations between two characters would be maybe the most common type of dialogue. a fun functionality of playdown in an editor that supports it could be auto-completing character names by taking the character who spoke last and guessing that the other character would be the next one speaking. the writer could also choose by typing a symbol for character dialogue and using the up and down arrow keys. this could be useful for dialogue involving more than one character. also, maybe the dialogue syntax could look like this:
+
+character 1: dialogue
+
+character 2: dialogue
+
+character 1: dialogue
+
+character 2: dialogue
+
+- maybe to make these features happen quickly, i could make playdown an extension of visual studio code
+
+- in order to display semicolon properly, only the first after two line breaks would indicate character and dialogue
+
+- this syntax would remove the current idea for syntax which is any block of text preceded by a line above containing the speaking character's name like this:
+
+\* character 1
+the dialogue of character one
+
+\* character 2
+the dialogue of character two
+
+the new syntax i like because character, colon, and dialogue (character: dialogue) is kind of already a popular informal syntax for writing dialogue
+
+- another idea i have for dialogue syntax is to remove action syntax (> action) and just have action be like the regular paragraph text syntax of markdown, like so:
+
+this would be an action because it's just a block of text all by itself with no special syntax
+
+and dialogue would be set off with a character name followed by the greater than symbol, like so:
+
+character 1 > dialogue
+
+character 2 > dialogue
+
+character 1 > dialogue
+
+character 2 > dialogue
+
 ## elements of a screenplay:
 
 ### title page
